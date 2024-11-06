@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Shippori;
+    src: url(resources/ShipporiAntique-Regular.ttf);
+}
+*{
+    font-family: Shippori;
+}
+h1{
+    font-weight: 300;
+}
+.book-list-body{
+    text-align: center;
+    margin: auto;
+    width: 300px;
+    height: 400px;
+    border: solid black;
+}
+.create-book{
+    position: relative;
+    bottom: 0px;
+}
